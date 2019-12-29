@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.3" class="java.beans.XMLDecoder">
+    <object class="java.util.ArrayList">
+        <void method="add">
+            <object class="model.Student">
+                <void property="age">
+                    <int>19</int>
+                </void>
+                <void property="birthday">
+                    <object class="java.util.Date">
+                        <long>974653200000</long>
+                    </object>
+                </void>
+                <void property="id">
+                    <int>1234234</int>
+                </void>
+                <void property="lop">
+                    <string>18CNTT1</string>
+                </void>
+                <void property="name">
+                    <string>Nguyen Van A</string>
+                </void>
+                <void property="nickName">
+                    <string>nva</string>
+                </void>
+                <void property="no">
+                    <int>1</int>
+                </void>
+            </object>
+        </void>
+        <void method="add">
+            <object class="model.Student">
+                <void property="age">
+                    <int>20</int>
+                </void>
+                <void property="birthday">
+                    <object class="java.util.Date">
+                        <long>977245200000</long>
+                    </object>
+                </void>
+            </object>
+        </void>
+    </object>
+</java>
